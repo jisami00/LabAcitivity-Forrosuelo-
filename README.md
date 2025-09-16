@@ -13,5 +13,7 @@ This shows the complete process of transferring the disks in the correct order.
 
 
 Sample Run: 
-<img width="937" height="835" alt="image" src="https://github.com/user-attachments/assets/5b5ba6ab-bbbb-4657-9631-3417ec04c1b9" />
+<img width="941" height="916" alt="image" src="https://github.com/user-attachments/assets/31084bf3-feea-4bea-95fc-c951a7b5a71b" />
+<img width="952" height="424" alt="image" src="https://github.com/user-attachments/assets/8b5edf07-d563-4118-ab4f-416fcbe5892f" />
+
 
